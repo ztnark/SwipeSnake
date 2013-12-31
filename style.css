@@ -1,0 +1,20 @@
+#restart {
+width: 400px;
+height: 40px;
+background: #6fb269;
+border: none;
+border-radius: 5px;
+font: normal 30px leaguereg;
+text-transform: uppercase;
+color: #fff;
+margin: 0 auto;
+margin-top: 10px;
+}
+body{
+  margin: 0 auto;
+  width: 520px;
+}
+
+html{
+  zoom:1;
+}
